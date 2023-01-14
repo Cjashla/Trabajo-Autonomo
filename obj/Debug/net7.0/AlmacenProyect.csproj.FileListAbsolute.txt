@@ -1,0 +1,15 @@
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.csproj.AssemblyReference.cache
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.AssemblyInfoInputs.cache
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.AssemblyInfo.cs
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\bin\Debug\net7.0\AlmacenProyect.exe
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\bin\Debug\net7.0\AlmacenProyect.deps.json
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\bin\Debug\net7.0\AlmacenProyect.runtimeconfig.json
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\bin\Debug\net7.0\AlmacenProyect.dll
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\bin\Debug\net7.0\AlmacenProyect.pdb
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.dll
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\refint\AlmacenProyect.dll
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.pdb
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\AlmacenProyect.genruntimeconfig.cache
+C:\Users\ASUS\Practicas de P.O.O\AlmacenProyect\obj\Debug\net7.0\ref\AlmacenProyect.dll
